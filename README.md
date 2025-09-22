@@ -4,7 +4,7 @@
 <ul>
   <li>💼 <strong>Data Analyst | Business Intelligence Enthusiast</strong></li>
   <li>🔍 I transform <strong>complex datasets</strong> into strategic and actionable insights.</li>
-  <li>🌎 <strong>8+ years</strong> of experience across global firms like <strong>Deloitte</strong> and <strong>Randstad</strong>.</li>
+  <li>🌎 <strong>8+ years</strong> of experience across global firms - <strong>Deloitte</strong> and <strong>Randstad</strong>.</li>
   <li>🎓 Currently pursuing my <strong>MS in Business Analytics</strong> at the <strong>University of Hartford</strong>.</li>
 </ul>
 </em>
