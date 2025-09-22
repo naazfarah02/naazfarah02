@@ -1,8 +1,9 @@
 # 👋 Hi there! I'm Farah Naaz  
 💡 **Data Analyst | Business Intelligence Enthusiast**  
-  ** I transform complex datasets into strategic and actionable insights.  
+  I transform complex datasets into strategic and actionable insights.  
   8+ years of experience in varied roles across global firms like Deloitte and Randstad.  
-  Currently pursuing my **M.S. in Business Analytics** at the **University of Hartford**, exploring **machine learning**, **data visualization**, and **predictive modeling**.
+  Currently pursuing my **M.S. in Business Analytics** at the **University of Hartford**  
+  Exploring **machine learning**, **data visualization**, and **predictive modeling**.
 
 ---
 
